@@ -1,0 +1,16 @@
+.body_background 
+{
+    background-image: url("photo.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.login_div
+{
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+h1 {
+    color: crimson;
+}
